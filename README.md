@@ -10,7 +10,7 @@
   I am a developer from Colombia and I create some projects with my imagination from scratch. I'm passionate about coding, I feel like “God” when I program, and I'm always excited to learn something new.
 </p>
 
-### 🛠️ Tech Stack  
+### 🛠 Tech Stack  
 **Technologies and tools I work with:**
 
 <p align="center">
