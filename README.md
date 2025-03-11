@@ -2,9 +2,6 @@
   <span style="color: #ff0000;">🦇</span> Esteban Campiño Cadena
 </h1>
 
-<p align="center">
-  <strong>'Digital man (Developer/Cybersecurity)'</strong>
-</p>
 
 <p align="center">
   I am a developer from Colombia and I create some projects with my imagination from scratch. I'm passionate about coding, I feel like “God” when I program, and I'm always excited to learn something new.
