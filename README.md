@@ -1,14 +1,6 @@
 <h1 align="center">
-  <span style="color: #ff0000;">🦇</span> Esteban Campiño Cadena
+  <span style="color: #ff0000;">🦇</span> 
 </h1>
-
-
-<p align="center">
-  I am a developer from Colombia and I create some projects with my imagination from scratch. I'm passionate about coding, I feel like “God” when I program, and I'm always excited to learn something new.
-</p>
-
-
-**Technologies and tools I work with:**
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" style="margin: 0 10px;">
