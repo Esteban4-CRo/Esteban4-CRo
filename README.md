@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Esteban4-CRo&label=Visitas&color=C81E1E&style=flat-square" />
   <img src="https://img.shields.io/github/followers/Esteban4-CRo?label=Seguidores&color=C81E1E&style=flat-square" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=C81E1E&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FEsteban4-CRo&style=flat-square" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=C81E1E&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FEsteban4-CRo&style=flat-square" />
   <img src="https://img.shields.io/badge/Commits%20este%20mes-C81E1E?style=flat-square" />
 </p>
 
