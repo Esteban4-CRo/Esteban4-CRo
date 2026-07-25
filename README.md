@@ -103,10 +103,7 @@ funcionan los sistemas por dentro para poder protegerlos mejor — y a veces, pa
 
 ### `> github_stats`
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Esteban4-CRo&show_icons=true&theme=react&hide_border=true&bg_color=0D0000&title_color=C81E1E&icon_color=C81E1E&text_color=c9c9c9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esteban4-CRo&layout=compact&theme=react&hide_border=true&bg_color=0D0000&title_color=C81E1E&text_color=c9c9c9" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esteban4-CRo&theme=react&hide_border=true&background=0D0000&ring=C81E1E&fire=C81E1E&currStreakLabel=C81E1E" />
