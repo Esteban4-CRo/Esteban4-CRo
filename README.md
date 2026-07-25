@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=200&section=header&text=EstebanCRO&fontSize=55&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Red%20Team%20Enthusiast&descAlignY=58&descSize=18&descColor=00FF41" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,100:1a0000&height=200&section=header&text=EstebanCRO&fontSize=55&fontColor=C81E1E&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Red%20Team%20Enthusiast&descAlignY=58&descSize=18&descColor=C81E1E" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=whoami+%3D+EstebanCRO;Aspiring+Red+Teamer+%F0%9F%92%80;Breaking+things+to+understand+them;Learning+%7C+Building+%7C+Hacking+(ethically)" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=C81E1E&center=true&vCenter=true&width=650&lines=whoami+%3D+EstebanCRO;Aspiring+Red+Teamer;Breaking+things+to+understand+them;Learning+%7C+Building+%7C+Hacking+(ethically)" />
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EstebanCRO&label=Visitas&color=00FF41&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/EstebanCRO?label=Seguidores&color=00FF41&style=flat-square" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=00FF41&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FEstebanCRO&style=flat-square" />
-  <img src="https://img.shields.io/badge/Commits%20este%20mes-%F0%9F%94%A5-00FF41?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=Visitas&color=C81E1E&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/TU_USUARIO_GITHUB?label=Seguidores&color=C81E1E&style=flat-square" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=C81E1E&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTU_USUARIO_GITHUB&style=flat-square" />
+  <img src="https://img.shields.io/badge/Commits%20este%20mes-C81E1E?style=flat-square" />
 </p>
 
 ---
@@ -39,22 +39,39 @@ funcionan los sistemas por dentro para poder protegerlos mejor — y a veces, pa
 **Lenguajes que más domino**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-8B0000?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-8B0000?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-**Otras herramientas y tecnologías**
+**Desarrollo web y frameworks**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=C81E1E" />
+  <img src="https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=C81E1E" />
+  <img src="https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=C81E1E" />
+  <img src="https://img.shields.io/badge/Vite-1a1a1a?style=for-the-badge&logo=vite&logoColor=C81E1E" />
+  <img src="https://img.shields.io/badge/Django-1a1a1a?style=for-the-badge&logo=django&logoColor=C81E1E" />
+  <img src="https://img.shields.io/badge/Firebase-1a1a1a?style=for-the-badge&logo=firebase&logoColor=C81E1E" />
+  <img src="https://img.shields.io/badge/Supabase-1a1a1a?style=for-the-badge&logo=supabase&logoColor=C81E1E" />
+  <img src="https://img.shields.io/badge/Vercel-1a1a1a?style=for-the-badge&logo=vercel&logoColor=C81E1E" />
+  <img src="https://img.shields.io/badge/Render-1a1a1a?style=for-the-badge&logo=render&logoColor=C81E1E" />
+</p>
+
+**Herramientas de ciberseguridad**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali%20Linux-1a1a1a?style=for-the-badge&logo=kalilinux&logoColor=C81E1E" />
+  <img src="https://img.shields.io/badge/Nmap-1a1a1a?style=for-the-badge&logo=nmap&logoColor=C81E1E" />
+  <img src="https://img.shields.io/badge/Wireshark-1a1a1a?style=for-the-badge&logo=wireshark&logoColor=C81E1E" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-1a1a1a?style=for-the-badge&logo=burpsuite&logoColor=C81E1E" />
+  <img src="https://img.shields.io/badge/Caido-1a1a1a?style=for-the-badge&logoColor=C81E1E" />
+  <img src="https://img.shields.io/badge/Amap-1a1a1a?style=for-the-badge&logoColor=C81E1E" />
+  <img src="https://img.shields.io/badge/Maltego-1a1a1a?style=for-the-badge&logo=maltego&logoColor=C81E1E" />
+  <img src="https://img.shields.io/badge/Mimikatz-1a1a1a?style=for-the-badge&logoColor=C81E1E" />
+  <img src="https://img.shields.io/badge/BloodHound-1a1a1a?style=for-the-badge&logoColor=C81E1E" />
+  <img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=C81E1E" />
+  <img src="https://img.shields.io/badge/MySQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=C81E1E" />
 </p>
 
 ---
@@ -63,27 +80,21 @@ funcionan los sistemas por dentro para poder protegerlos mejor — y a veces, pa
 
 <table>
   <tr>
-    <td>🎓</td>
     <td><b>Tecnólogo en Desarrollo de Software</b><br/><sub>Universidad del Valle · En curso · 17 dic. 2026</sub></td>
   </tr>
   <tr>
-    <td>🛡️</td>
     <td><b>CompTIA Security+ (SY0-701)</b><br/><sub>CompTIA · En curso · 30 sep. 2026</sub></td>
   </tr>
   <tr>
-    <td>💻</td>
     <td><b>Hacking Ético y Ciberseguridad</b><br/><sub>Udemy · 23 jun. 2026</sub></td>
   </tr>
   <tr>
-    <td>🛡️</td>
     <td><b>Mitigación y Prevención de Amenazas en Ciberseguridad</b><br/><sub>SENA · 29 dic. 2025</sub></td>
   </tr>
   <tr>
-    <td>☕</td>
     <td><b>Programación en JAVA</b><br/><sub>Politécnico de Colombia · 31 ago. 2024</sub></td>
   </tr>
   <tr>
-    <td>⚙️</td>
     <td><b>Técnico en Programación de Software</b><br/><sub>SENA · 1 ago. 2023</sub></td>
   </tr>
 </table>
@@ -93,16 +104,16 @@ funcionan los sistemas por dentro para poder protegerlos mejor — y a veces, pa
 ### `> github_stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EstebanCRO&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanCRO&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=react&hide_border=true&bg_color=0D0000&title_color=C81E1E&icon_color=C81E1E&text_color=c9c9c9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=react&hide_border=true&bg_color=0D0000&title_color=C81E1E&text_color=c9c9c9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstebanCRO&theme=react&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=react&hide_border=true&background=0D0000&ring=C81E1E&fire=C81E1E&currStreakLabel=C81E1E" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EstebanCRO&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&theme=react-dark&hide_border=true&bg_color=0D0000&color=C81E1E&line=C81E1E&point=ffffff" />
 </p>
 
 ---
@@ -110,15 +121,16 @@ funcionan los sistemas por dentro para poder protegerlos mejor — y a veces, pa
 ### `> connect --with-me`
 
 <p align="center">
-  <a href="mailto:juancampinoc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/esteban-campi%C3%B1o-cadena-44b2a3343/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/estebancro237"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
+  <a href="mailto:juancampinoc@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=C81E1E" /></a>
+  <a href="https://www.linkedin.com/in/esteban-campi%C3%B1o-cadena-44b2a3343/"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=C81E1E" /></a>
+  <a href="https://tryhackme.com/p/estebancro237"><img src="https://img.shields.io/badge/TryHackMe-1a1a1a?style=for-the-badge&logo=tryhackme&logoColor=C81E1E" /></a>
+  <a href="https://profile.hackthebox.com/profile/019f1c00-3448-729e-8e2a-16f6f46fefba"><img src="https://img.shields.io/badge/HackTheBox-1a1a1a?style=for-the-badge&logo=hackthebox&logoColor=C81E1E" /></a>
 </p>
 
 <div align="center">
 
-*"El eslabón más débil no siempre es la tecnología... a veces es la falta de práctica. Sigo entrenando."*
+*"Every man wears a mask. The real question is what happens the day it comes off."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,100:1a0000&height=100&section=footer" />
 
 </div>
