@@ -23,15 +23,14 @@ $ cat about_me.txt
 
 Estudiante de **Tecnología en Desarrollo de Software** (Universidad del Valle), enfocado en
 **Ciberseguridad** y en camino a convertirme en **Red Teamer**. Me apasiona entender cómo
-funcionan los sistemas por dentro para poder protegerlos mejor — y a veces, para romperlos
-(con permiso 😄).
+funcionan los sistemas por dentro para poder protegerlos mejor — y a veces, para romperlos.
 
-- 🔐 Enfocado en **pentesting**, **hacking ético** y **Red Team**
-- 🎓 Formándome constantemente: certificaciones, cursos y práctica
-- 🤝 Disponible para **colaborar en proyectos open source**
-- 💼 Abierto a **prácticas / colaboraciones sin remuneración** a cambio de experiencia real y conocimiento
-- 🧠 Siempre aprendiendo algo nuevo — hoy toca leer un CVE, mañana romper un binario
-- 📫 Contáctame si buscas a alguien con ganas de aportar y aprender
+- Enfocado en **pentesting**, **hacking ético** y **Red Team**
+- Formándome constantemente: certificaciones, cursos y práctica
+- Disponible para **colaborar en proyectos open source**
+- Abierto a **prácticas / colaboraciones sin remuneración** a cambio de experiencia real y conocimiento
+- Siempre aprendiendo algo nuevo — hoy toca leer un CVE, mañana romper un binario
+- Contáctame si buscas a alguien con ganas de aportar y aprender
 
 ---
 
@@ -111,9 +110,9 @@ funcionan los sistemas por dentro para poder protegerlos mejor — y a veces, pa
 ### `> connect --with-me`
 
 <p align="center">
-  <a href="mailto:tu_correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/tu-usuario"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
+  <a href="mailto:juancampinoc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/esteban-campi%C3%B1o-cadena-44b2a3343/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/estebancro237"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /></a>
 </p>
 
 <div align="center">
