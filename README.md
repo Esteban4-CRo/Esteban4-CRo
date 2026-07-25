@@ -7,9 +7,9 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=Visitas&color=C81E1E&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/TU_USUARIO_GITHUB?label=Seguidores&color=C81E1E&style=flat-square" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=C81E1E&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTU_USUARIO_GITHUB&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Esteban4-CRo&label=Visitas&color=C81E1E&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Esteban4-CRo?label=Seguidores&color=C81E1E&style=flat-square" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=C81E1E&label=Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FEsteban4-CRo&style=flat-square" />
   <img src="https://img.shields.io/badge/Commits%20este%20mes-C81E1E?style=flat-square" />
 </p>
 
@@ -104,16 +104,16 @@ funcionan los sistemas por dentro para poder protegerlos mejor — y a veces, pa
 ### `> github_stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=react&hide_border=true&bg_color=0D0000&title_color=C81E1E&icon_color=C81E1E&text_color=c9c9c9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=react&hide_border=true&bg_color=0D0000&title_color=C81E1E&text_color=c9c9c9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Esteban4-CRo&show_icons=true&theme=react&hide_border=true&bg_color=0D0000&title_color=C81E1E&icon_color=C81E1E&text_color=c9c9c9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esteban4-CRo&layout=compact&theme=react&hide_border=true&bg_color=0D0000&title_color=C81E1E&text_color=c9c9c9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=react&hide_border=true&background=0D0000&ring=C81E1E&fire=C81E1E&currStreakLabel=C81E1E" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esteban4-CRo&theme=react&hide_border=true&background=0D0000&ring=C81E1E&fire=C81E1E&currStreakLabel=C81E1E" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&theme=react-dark&hide_border=true&bg_color=0D0000&color=C81E1E&line=C81E1E&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Esteban4-CRo&theme=react-dark&hide_border=true&bg_color=0D0000&color=C81E1E&line=C81E1E&point=ffffff" />
 </p>
 
 ---
@@ -122,7 +122,7 @@ funcionan los sistemas por dentro para poder protegerlos mejor — y a veces, pa
 
 <p align="center">
   <a href="mailto:juancampinoc@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=C81E1E" /></a>
-  <a href="https://www.linkedin.com/in/esteban-campi%C3%B1o-cadena-44b2a3343/"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=C81E1E" /></a>
+  <a href="https://www.linkedin.com/in/esteban-campi%C3%B1o-cadena-44b2a3343/"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="https://tryhackme.com/p/estebancro237"><img src="https://img.shields.io/badge/TryHackMe-1a1a1a?style=for-the-badge&logo=tryhackme&logoColor=C81E1E" /></a>
   <a href="https://profile.hackthebox.com/profile/019f1c00-3448-729e-8e2a-16f6f46fefba"><img src="https://img.shields.io/badge/HackTheBox-1a1a1a?style=for-the-badge&logo=hackthebox&logoColor=C81E1E" /></a>
 </p>
