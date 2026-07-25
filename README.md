@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Esteban4-CRo&label=Visitas&color=C81E1E&style=flat-square" />
   <img src="https://img.shields.io/github/followers/Esteban4-CRo?label=Seguidores&color=C81E1E&style=flat-square" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=C81E1E&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FEsteban4-CRo&style=flat-square" />
+  <a href="https://github.com/Esteban4-CRo?tab=repositories"><img src="https://img.shields.io/badge/Repos-14-C81E1E?style=flat-square" /></a>
   <img src="https://img.shields.io/badge/Commits%20este%20mes-C81E1E?style=flat-square" />
 </p>
 
@@ -62,7 +62,7 @@ funcionan los sistemas por dentro para poder protegerlos mejor — y a veces, pa
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kali%20Linux-1a1a1a?style=for-the-badge&logo=kalilinux&logoColor=C81E1E" />
-  <img src="https://img.shields.io/badge/Nmap-1a1a1a?style=for-the-badge&logo=nmap&logoColor=C81E1E" />
+  <img src="https://img.shields.io/badge/Nmap-1a1a1a?style=for-the-badge&logoColor=C81E1E" />
   <img src="https://img.shields.io/badge/Wireshark-1a1a1a?style=for-the-badge&logo=wireshark&logoColor=C81E1E" />
   <img src="https://img.shields.io/badge/Burp%20Suite-1a1a1a?style=for-the-badge&logo=burpsuite&logoColor=C81E1E" />
   <img src="https://img.shields.io/badge/Caido-1a1a1a?style=for-the-badge&logoColor=C81E1E" />
