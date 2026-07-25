@@ -18,7 +18,7 @@
 ### `> whoami`
 
 ```bash
-$ cat about_me.txt
+$ cat Readme.md
 ```
 
 Estudiante de **Tecnología en Desarrollo de Software** (Universidad del Valle), enfocado en
