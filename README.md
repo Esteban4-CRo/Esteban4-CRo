@@ -12,10 +12,6 @@
 
 <br/>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2t4NW9uMGtpa2pqd2g1N2JsenpmbW5jYWcxMDhiaXBieHNpaHVjcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qRJyqHV5qlqCV6qnFy/giphy.gif" width="180"/>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=Esteban4-CRo&label=Visitas&color=C81E1E&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/Esteban4-CRo?label=Seguidores&color=C81E1E&style=for-the-badge" />
 <a href="https://github.com/Esteban4-CRo?tab=repositories"><img src="https://img.shields.io/badge/Repos-14-C81E1E?style=for-the-badge&labelColor=0d0000" /></a>
@@ -216,6 +212,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C81E1E,50:1a0000,100:C81E1E&height=3&width=900" />
 
 <br/>
+
+<img align="right" width="160" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2t4NW9uMGtpa2pqd2g1N2JsenpmbW5jYWcxMDhiaXBieHNpaHVjcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qRJyqHV5qlqCV6qnFy/giphy.gif" />
 
 ## <img src="https://skillicons.dev/icons?i=discord" width="26"/> `esteban@redteam:~$ nc -lvp connect`
 
