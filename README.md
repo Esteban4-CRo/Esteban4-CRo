@@ -12,6 +12,10 @@
 
 <br/>
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2t4NW9uMGtpa2pqd2g1N2JsenpmbW5jYWcxMDhiaXBieHNpaHVjcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qRJyqHV5qlqCV6qnFy/giphy.gif" width="180"/>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=Esteban4-CRo&label=Visitas&color=C81E1E&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/Esteban4-CRo?label=Seguidores&color=C81E1E&style=for-the-badge" />
 <a href="https://github.com/Esteban4-CRo?tab=repositories"><img src="https://img.shields.io/badge/Repos-14-C81E1E?style=for-the-badge&labelColor=0d0000" /></a>
@@ -92,45 +96,67 @@
 
 <div align="center">
 
-<sub>「 LENGUAJES 」</sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,php&theme=dark" />
-
-<br/><br/>
-
-<sub>「 FRAMEWORKS & PLATAFORMAS 」</sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=react,vite,django,firebase,supabase,vercel,git,mysql&theme=dark" />
-
-<br/><br/>
-
-<sub>「 SISTEMAS & VIRTUALIZACIÓN 」</sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,debian&theme=dark" />
-<img src="https://img.shields.io/badge/Kali_Linux-0d0000?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
-<img src="https://img.shields.io/badge/Parrot_OS-0d0000?style=for-the-badge&logo=parrotsecurity&logoColor=8FE04A" />
-<img src="https://img.shields.io/badge/VMware-0d0000?style=for-the-badge&logo=vmware&logoColor=607078" />
-<img src="https://img.shields.io/badge/VirtualBox-0d0000?style=for-the-badge&logo=virtualbox&logoColor=183A61" />
-
-<br/><br/>
-
-<sub>「 RECON & NETWORKING 」</sub>
-<br/>
-<img src="https://img.shields.io/badge/Nmap-0d0000?style=for-the-badge&logoColor=C81E1E" />
-<img src="https://img.shields.io/badge/Wireshark-0d0000?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
-<img src="https://img.shields.io/badge/Amap-0d0000?style=for-the-badge&logoColor=C81E1E" />
-<img src="https://img.shields.io/badge/Maltego-0d0000?style=for-the-badge&logo=maltego&logoColor=00C4FF" />
-
-<br/><br/>
-
-<sub>「 EXPLOTACIÓN & POST-EXPLOTACIÓN 」</sub>
-<br/>
-<img src="https://img.shields.io/badge/Burp_Suite-0d0000?style=for-the-badge&logoColor=C81E1E" />
-<img src="https://img.shields.io/badge/Caido-0d0000?style=for-the-badge&logoColor=C81E1E" />
-<img src="https://img.shields.io/badge/Mimikatz-0d0000?style=for-the-badge&logoColor=C81E1E" />
-<img src="https://img.shields.io/badge/BloodHound-0d0000?style=for-the-badge&logoColor=C81E1E" />
+<img src="tech-stack-carousel.svg" width="100%" alt="tech stack carousel"/>
 
 </div>
+
+<br/>
+
+<details>
+<summary><b>「 LENGUAJES 」</b></summary>
+<br/>
+<div align="center">
+<img src="https://cdn.simpleicons.org/c" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cplusplus" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/csharp" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/python" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/php" width="42" height="42"/>
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>「 FRAMEWORKS & PLATAFORMAS 」</b></summary>
+<br/>
+<div align="center">
+<img src="https://cdn.simpleicons.org/react" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/vite" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/django" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/firebase" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/supabase" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/vercel" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql" width="42" height="42"/>
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>「 SISTEMAS & VIRTUALIZACIÓN 」</b></summary>
+<br/>
+<div align="center">
+<img src="https://cdn.simpleicons.org/linux" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/kalilinux" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/parrotsecurity" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/vmware" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/virtualbox" width="42" height="42"/>
+</div>
+<br/>
+</details>
+
+<details>
+<summary><b>「 HERRAMIENTAS DE PENTESTING 」</b></summary>
+<br/>
+<div align="center">
+<img src="https://cdn.simpleicons.org/wireshark" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/burpsuite" width="42" height="42"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/metasploit" width="42" height="42"/>
+<br/><br/>
+<sub><code>+ Nmap · Caido · Amap · Maltego · Mimikatz · BloodHound</code></sub>
+</div>
+<br/>
+</details>
 
 <br/>
 
