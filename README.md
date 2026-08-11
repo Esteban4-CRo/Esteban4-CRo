@@ -151,11 +151,7 @@
 
 <br>
 
-<div align="center">
-
-<img src=".Images/Foto.png" height="200" alt="Esteban Photo"/>
-
-<br><br>
+<img src=".Images/Foto.png" height="260" align="right" alt="Esteban Photo"/>
 
 <a href="mailto:juancampinoc@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=C81E1E" height="48"/></a>
 <br><br>
@@ -167,10 +163,9 @@
 <br><br>
 <a href="https://www.youtube.com/playlist?list=PLZDsctTL3Gnk"><img src="https://img.shields.io/badge/YOUTUBE-050505?style=for-the-badge&logo=youtube&logoColor=C81E1E" height="48"/></a>
 
-</div>
+<br clear="both"/>
 
 <div align="center">
-
 <img src="https://i.makeagif.com/media/8-06-2016/3Z7Ag8.gif" width="100%" height="70" alt="banner gif"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:160000,100:050505&height=120&section=footer" width="100%"/>
 
@@ -181,4 +176,3 @@
 <i>"Every man wears a mask. The real question is what happens the day it comes off."</i>
 
 </div>
-
