@@ -73,10 +73,6 @@
 
 <h2>esteban@redteam:~$ ./enumerate --technology</h2>
 
-<div align="center">
-<img src="tech-stack-carousel.svg" width="100%" alt="Red Team technology stack carousel"/>
-</div>
-
 <br>
 
 <details open>
@@ -152,26 +148,15 @@
 
 <h2>esteban@redteam:~$ nc -lvp connect</h2>
 
-<table width="100%" border="0">
-<tr>
-<td valign="middle" align="left">
+<div>
+<img src="https://cdn.shopify.com/s/files/1/0765/5368/3260/files/PunSpin-2x-RIFE-RIFE4.0-8fps-ezgif.com-crop.gif" width="160" align="right" alt="PunSpin GIF"/>
 
-<a href="mailto:juancampinoc@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=C81E1E"/></a>
-<a href="https://www.linkedin.com/in/esteban-campi%C3%B1o-cadena-44b2a3343/"><img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="https://tryhackme.com/p/estebancro237"><img src="https://img.shields.io/badge/TRYHACKME-050505?style=for-the-badge&logo=tryhackme&logoColor=C81E1E"/></a>
-<a href="https://profile.hackthebox.com/profile/019f1c00-3448-729e-8e2a-16f6f46fefba"><img src="https://img.shields.io/badge/HACKTHEBOX-050505?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
+<a href="mailto:juancampinoc@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=C81E1E"/></a><br>
+<a href="https://www.linkedin.com/in/esteban-campi%C3%B1o-cadena-44b2a3343/"><img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a><br>
+<a href="https://tryhackme.com/p/estebancro237"><img src="https://img.shields.io/badge/TRYHACKME-050505?style=for-the-badge&logo=tryhackme&logoColor=C81E1E"/></a><br>
+<a href="https://profile.hackthebox.com/profile/019f1c00-3448-729e-8e2a-16f6f46fefba"><img src="https://img.shields.io/badge/HACKTHEBOX-050505?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a><br>
 <a href="https://www.youtube.com/playlist?list=PLZDsctTL3Gnk"><img src="https://img.shields.io/badge/YOUTUBE-050505?style=for-the-badge&logo=youtube&logoColor=C81E1E"/></a>
-
-</td>
-<td valign="middle" align="right">
-
-<img src="https://cdn.shopify.com/s/files/1/0765/5368/3260/files/PunSpin-2x-RIFE-RIFE4.0-8fps-ezgif.com-crop.gif"
-     width="160"
-     alt="PunSpin GIF"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
