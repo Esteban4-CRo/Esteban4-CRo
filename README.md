@@ -166,7 +166,8 @@
 <br clear="both"/>
 
 <div align="center">
-<img src="https://i.makeagif.com/media/8-06-2016/3Z7Ag8.gif" width="100%" height="70" alt="banner gif"/>
+<img src="https://i.makeagif.com/media/8-06-2016/3Z7Ag8.gif" width="100%" alt="banner gif"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:160000,100:050505&height=120&section=footer" width="100%"/>
 
 <sub><code>root@redteam:~# echo $QUOTE</code></sub>
