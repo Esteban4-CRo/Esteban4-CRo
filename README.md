@@ -51,19 +51,19 @@
 <h2>esteban@redteam:~$ ./run_course.sh --ethical-hacking</h2>
 
 <div align="center">
-<table border="0">
+<table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td align="center" valign="middle">
 <a href="https://www.youtube.com/playlist?list=PLZDsctTL3Gnk">
-<img src="https://i.ytimg.com/vi/Tlrt4uj3mEU/hqdefault.jpg" width="320" alt="CBROS Ethical Hacking"/>
+<img src="https://i.ytimg.com/vi/Tlrt4uj3mEU/hqdefault.jpg" width="340" alt="CBROS Ethical Hacking" style="border-radius: 8px;"/>
 </a>
 </td>
-<td valign="middle" style="padding-left: 20px;">
+<td valign="middle" style="padding-left: 25px;">
 <a href="https://www.youtube.com/playlist?list=PLZDsctTL3Gnk">
-<img src="https://img.shields.io/badge/CBROS_ETHICAL_HACKING-C81E1E?style=for-the-badge&logo=youtube&logoColor=white&labelColor=050505"/>
+<img src="https://img.shields.io/badge/CBROS_ETHICAL_HACKING-C81E1E?style=for-the-badge&logo=youtube&logoColor=white&labelColor=050505" height="35"/>
 </a>
 <br><br>
-<sub>Ethical Hacking · Pentesting · Red Team · OSINT · Metodología paso a paso</sub>
+<sub><b>Ethical Hacking · Pentesting · Red Team · OSINT · Metodología paso a paso</b></sub>
 </td>
 </tr>
 </table>
@@ -79,49 +79,50 @@
 <summary><b>LANGUAGES</b></summary>
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="32"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="32"/>
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>FRAMEWORKS & PLATFORMS</b></summary>
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="32"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="32"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="32"/>
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>SYSTEMS & VIRTUALIZATION</b></summary>
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Parrot_OS-00DAE6?style=for-the-badge&logo=parrotsecurity&logoColor=black" />
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="32"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Parrot_OS-00DAE6?style=for-the-badge&logo=parrotsecurity&logoColor=black" height="32"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="32"/>
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>PENTESTING TOOLKIT</b></summary>
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-1F6B9C?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Metasploit-1F6B9C?style=for-the-badge&logo=metasploit&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" height="32"/>
 </p>
 </details>
 
@@ -148,14 +149,33 @@
 
 <h2>esteban@redteam:~$ nc -lvp connect</h2>
 
-<div>
-<img src="https://cdn.shopify.com/s/files/1/0765/5368/3260/files/PunSpin-2x-RIFE-RIFE4.0-8fps-ezgif.com-crop.gif" width="160" align="right" alt="PunSpin GIF"/>
+<br>
 
-<a href="mailto:juancampinoc@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=C81E1E"/></a><br>
-<a href="https://www.linkedin.com/in/esteban-campi%C3%B1o-cadena-44b2a3343/"><img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a><br>
-<a href="https://tryhackme.com/p/estebancro237"><img src="https://img.shields.io/badge/TRYHACKME-050505?style=for-the-badge&logo=tryhackme&logoColor=C81E1E"/></a><br>
-<a href="https://profile.hackthebox.com/profile/019f1c00-3448-729e-8e2a-16f6f46fefba"><img src="https://img.shields.io/badge/HACKTHEBOX-050505?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a><br>
-<a href="https://www.youtube.com/playlist?list=PLZDsctTL3Gnk"><img src="https://img.shields.io/badge/YOUTUBE-050505?style=for-the-badge&logo=youtube&logoColor=C81E1E"/></a>
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" valign="middle">
+
+<p align="center">
+<a href="mailto:juancampinoc@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=C81E1E" height="38"/></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/esteban-campi%C3%B1o-cadena-44b2a3343/"><img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="38"/></a>
+&nbsp;&nbsp;
+<a href="https://tryhackme.com/p/estebancro237"><img src="https://img.shields.io/badge/TRYHACKME-050505?style=for-the-badge&logo=tryhackme&logoColor=C81E1E" height="38"/></a>
+&nbsp;&nbsp;
+<a href="https://profile.hackthebox.com/profile/019f1c00-3448-729e-8e2a-16f6f46fefba"><img src="https://img.shields.io/badge/HACKTHEBOX-050505?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" height="38"/></a>
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/playlist?list=PLZDsctTL3Gnk"><img src="https://img.shields.io/badge/YOUTUBE-050505?style=for-the-badge&logo=youtube&logoColor=C81E1E" height="38"/></a>
+</p>
+
+</td>
+<td align="right" valign="bottom" width="170">
+
+<img src="https://cdn.shopify.com/s/files/1/0765/5368/3260/files/PunSpin-2x-RIFE-RIFE4.0-8fps-ezgif.com-crop.gif" width="150" alt="PunSpin GIF"/>
+
+</td>
+</tr>
+</table>
 </div>
 
 <br>
