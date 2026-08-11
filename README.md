@@ -152,8 +152,13 @@
 <br>
 
 <div align="center">
-<img src="189714-ezgif.com-remove-background.gif" width="160" align="right" alt="EstebanCRO GIF"/>
 
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center" valign="middle" width="220">
+<img src=".Images/Foto.png" width="200" alt="Esteban Photo" style="border-radius: 12px;"/>
+</td>
+<td valign="middle" style="padding-left: 30px;">
 <p align="center">
 <a href="mailto:juancampinoc@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=C81E1E" height="48"/></a>
 <br><br>
@@ -165,6 +170,14 @@
 <br><br>
 <a href="https://www.youtube.com/playlist?list=PLZDsctTL3Gnk"><img src="https://img.shields.io/badge/YOUTUBE-050505?style=for-the-badge&logo=youtube&logoColor=C81E1E" height="48"/></a>
 </p>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://i.makeagif.com/media/8-06-2016/3Z7Ag8.gif" width="100%" alt="banner gif" style="border-radius: 8px;"/>
+
 </div>
 
 <br>
