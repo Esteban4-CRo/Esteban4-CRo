@@ -152,7 +152,7 @@
 <br>
 
 <div align="center">
-<img src="https://cdn.shopify.com/s/files/1/0765/5368/3260/files/PunSpin-2x-RIFE-RIFE4.0-8fps-ezgif.com-crop.gif" width="160" align="right" alt="PunSpin GIF"/>
+<img src="189714-ezgif.com-remove-background.gif" width="160" align="right" alt="EstebanCRO GIF"/>
 
 <p align="center">
 <a href="mailto:juancampinoc@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=C81E1E" height="48"/></a>
