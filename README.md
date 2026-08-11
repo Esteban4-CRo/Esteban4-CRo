@@ -21,9 +21,9 @@
 
 <table width="100%" cellpadding="0" cellspacing="0">
 <tr>
-<td width="76%" valign="top" style="padding-right:24px">
+<td width="70%" valign="top" style="padding-right:24px">
 
-<h2>💻 esteban@redteam:~$ cat about.md</h2>
+<h2>esteban@redteam:~$ cat about.md</h2>
 
 <pre>
 [+] Software Development Student
@@ -52,7 +52,7 @@
 
 <hr>
 
-<h2>▶ esteban@redteam:~$ ./run_course.sh --ethical-hacking</h2>
+<h2>esteban@redteam:~$ ./run_course.sh --ethical-hacking</h2>
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 <br><br>
 
 <a href="https://www.youtube.com/playlist?list=PLZDsctTL3Gnk">
-<img src="https://img.shields.io/badge/▶_CBROS_ETHICAL_HACKING-C81E1E?style=for-the-badge&logo=youtube&logoColor=white&labelColor=050505"/>
+<img src="https://img.shields.io/badge/CBROS_ETHICAL_HACKING-C81E1E?style=for-the-badge&logo=youtube&logoColor=white&labelColor=050505"/>
 </a>
 
 <br><br>
@@ -74,7 +74,7 @@
 
 <hr>
 
-<h2>⚡ esteban@redteam:~$ ./enumerate --technology</h2>
+<h2>esteban@redteam:~$ ./enumerate --technology</h2>
 
 <div align="center">
 <img src="tech-stack-carousel.svg" width="100%" alt="Red Team technology stack carousel"/>
@@ -86,17 +86,17 @@
 <summary><b>LANGUAGES</b></summary>
 <br>
 <div align="center">
-<img src="https://cdn.simpleicons.org/c" width="42"/>
+<img src="https://cdn.simpleicons.org/c" width="42" title="C"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/cplusplus" width="42"/>
+<img src="https://cdn.simpleicons.org/cplusplus" width="42" title="C++"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/csharp" width="42"/>
+<img src="https://cdn.simpleicons.org/csharp" width="42" title="C#"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/python" width="42"/>
+<img src="https://cdn.simpleicons.org/python" width="42" title="Python"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript" width="42"/>
+<img src="https://cdn.simpleicons.org/javascript" width="42" title="JavaScript"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/php" width="42"/>
+<img src="https://cdn.simpleicons.org/php" width="42" title="PHP"/>
 </div>
 <br>
 </details>
@@ -105,21 +105,21 @@
 <summary><b>FRAMEWORKS & PLATFORMS</b></summary>
 <br>
 <div align="center">
-<img src="https://cdn.simpleicons.org/react" width="42"/>
+<img src="https://cdn.simpleicons.org/react" width="42" title="React"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/vite" width="42"/>
+<img src="https://cdn.simpleicons.org/vite" width="42" title="Vite"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/django" width="42"/>
+<img src="https://cdn.simpleicons.org/django" width="42" title="Django"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/firebase" width="42"/>
+<img src="https://cdn.simpleicons.org/firebase" width="42" title="Firebase"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/supabase" width="42"/>
+<img src="https://cdn.simpleicons.org/supabase" width="42" title="Supabase"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/vercel" width="42"/>
+<img src="https://cdn.simpleicons.org/vercel" width="42" title="Vercel"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git" width="42"/>
+<img src="https://cdn.simpleicons.org/git" width="42" title="Git"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mysql" width="42"/>
+<img src="https://cdn.simpleicons.org/mysql" width="42" title="MySQL"/>
 </div>
 <br>
 </details>
@@ -128,15 +128,15 @@
 <summary><b>SYSTEMS & VIRTUALIZATION</b></summary>
 <br>
 <div align="center">
-<img src="https://cdn.simpleicons.org/linux" width="42"/>
+<img src="https://cdn.simpleicons.org/linux" width="42" title="Linux"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/kalilinux" width="42"/>
+<img src="https://cdn.simpleicons.org/kalilinux" width="42" title="Kali Linux"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/parrotsecurity" width="42"/>
+<img src="https://cdn.simpleicons.org/parrotsecurity" width="42" title="Parrot OS"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/vmware" width="42"/>
+<img src="https://cdn.simpleicons.org/vmware" width="42" title="VMware"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/virtualbox" width="42"/>
+<img src="https://cdn.simpleicons.org/virtualbox" width="42" title="VirtualBox"/>
 </div>
 <br>
 </details>
@@ -145,20 +145,20 @@
 <summary><b>PENTESTING TOOLKIT</b></summary>
 <br>
 <div align="center">
-<img src="https://cdn.simpleicons.org/wireshark" width="42"/>
+<img src="https://cdn.simpleicons.org/nmap" width="42" title="Nmap"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/burpsuite" width="42"/>
+<img src="https://cdn.simpleicons.org/wireshark" width="42" title="Wireshark"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/metasploit" width="42"/>
-<br><br>
-<code>Nmap · Caido · Amap · Maltego · Mimikatz · BloodHound</code>
+<img src="https://cdn.simpleicons.org/burpsuite" width="42" title="Burp Suite"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/metasploit" width="42" title="Metasploit"/>
 </div>
 <br>
 </details>
 
 <hr>
 
-<h2>🎓 esteban@redteam:~$ cat certifications.log</h2>
+<h2>esteban@redteam:~$ cat certifications.log</h2>
 
 <table width="100%">
 <tr>
@@ -177,9 +177,9 @@
 
 <hr>
 
-<h2>📡 esteban@redteam:~$ nc -lvp connect</h2>
+<h2>esteban@redteam:~$ nc -lvp connect</h2>
 
-<div align="center">
+<div align="left">
 
 <a href="mailto:juancampinoc@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=C81E1E"/></a>
 <a href="https://www.linkedin.com/in/esteban-campi%C3%B1o-cadena-44b2a3343/"><img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
@@ -191,18 +191,11 @@
 
 </td>
 
-<td width="24%" valign="top" align="center">
+<td width="30%" valign="bottom" align="right">
 
-<!--
-This is intentionally a tall panel.
-GitHub README does not support fixed-position CSS backgrounds.
-The height is chosen to cover the full composition.
--->
-
-<img src="https://64.media.tumblr.com/635cde96327cd3420240caaa7e5e3f2d/tumblr_pwofen6qHv1yuxon5o1_r1_400.gif"
-     width="300"
-     height="2600"
-     alt="Red Team visual panel"/>
+<img src="https://cdn.shopify.com/s/files/1/0765/5368/3260/files/PunSpin-2x-RIFE-RIFE4.0-8fps-ezgif.com-crop.gif"
+     width="200"
+     alt="PunSpin GIF"/>
 
 </td>
 </tr>
