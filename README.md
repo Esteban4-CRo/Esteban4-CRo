@@ -19,10 +19,6 @@
 
 <br>
 
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr>
-<td width="70%" valign="top" style="padding-right:24px">
-
 <h2>esteban@redteam:~$ cat about.md</h2>
 
 <pre>
@@ -55,21 +51,22 @@
 <h2>esteban@redteam:~$ ./run_course.sh --ethical-hacking</h2>
 
 <div align="center">
-
+<table border="0">
+<tr>
+<td align="center" valign="middle">
 <a href="https://www.youtube.com/playlist?list=PLZDsctTL3Gnk">
-<img src="https://i.ytimg.com/vi/Tlrt4uj3mEU/hqdefault.jpg" width="92%" alt="CBROS Ethical Hacking"/>
+<img src="https://i.ytimg.com/vi/Tlrt4uj3mEU/hqdefault.jpg" width="320" alt="CBROS Ethical Hacking"/>
 </a>
-
-<br><br>
-
+</td>
+<td valign="middle" style="padding-left: 20px;">
 <a href="https://www.youtube.com/playlist?list=PLZDsctTL3Gnk">
 <img src="https://img.shields.io/badge/CBROS_ETHICAL_HACKING-C81E1E?style=for-the-badge&logo=youtube&logoColor=white&labelColor=050505"/>
 </a>
-
 <br><br>
-
 <sub>Ethical Hacking · Pentesting · Red Team · OSINT · Metodología paso a paso</sub>
-
+</td>
+</tr>
+</table>
 </div>
 
 <hr>
@@ -82,78 +79,54 @@
 
 <br>
 
-<details>
+<details open>
 <summary><b>LANGUAGES</b></summary>
 <br>
-<div align="center">
-<img src="https://cdn.simpleicons.org/c" width="42" title="C"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/cplusplus" width="42" title="C++"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/csharp" width="42" title="C#"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/python" width="42" title="Python"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript" width="42" title="JavaScript"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/php" width="42" title="PHP"/>
-</div>
-<br>
+<p align="center">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 </details>
 
 <details>
 <summary><b>FRAMEWORKS & PLATFORMS</b></summary>
 <br>
-<div align="center">
-<img src="https://cdn.simpleicons.org/react" width="42" title="React"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/vite" width="42" title="Vite"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/django" width="42" title="Django"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/firebase" width="42" title="Firebase"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/supabase" width="42" title="Supabase"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/vercel" width="42" title="Vercel"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git" width="42" title="Git"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mysql" width="42" title="MySQL"/>
-</div>
-<br>
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 </details>
 
 <details>
 <summary><b>SYSTEMS & VIRTUALIZATION</b></summary>
 <br>
-<div align="center">
-<img src="https://cdn.simpleicons.org/linux" width="42" title="Linux"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/kalilinux" width="42" title="Kali Linux"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/parrotsecurity" width="42" title="Parrot OS"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/vmware" width="42" title="VMware"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/virtualbox" width="42" title="VirtualBox"/>
-</div>
-<br>
+<p align="center">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Parrot_OS-00DAE6?style=for-the-badge&logo=parrotsecurity&logoColor=black" />
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+</p>
 </details>
 
 <details>
 <summary><b>PENTESTING TOOLKIT</b></summary>
 <br>
-<div align="center">
-<img src="https://cdn.simpleicons.org/nmap" width="42" title="Nmap"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/wireshark" width="42" title="Wireshark"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/burpsuite" width="42" title="Burp Suite"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/metasploit" width="42" title="Metasploit"/>
-</div>
-<br>
+<p align="center">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-1F6B9C?style=for-the-badge&logo=metasploit&logoColor=white" />
+</p>
 </details>
 
 <hr>
@@ -179,7 +152,9 @@
 
 <h2>esteban@redteam:~$ nc -lvp connect</h2>
 
-<div align="left">
+<table width="100%" border="0">
+<tr>
+<td valign="middle" align="left">
 
 <a href="mailto:juancampinoc@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=C81E1E"/></a>
 <a href="https://www.linkedin.com/in/esteban-campi%C3%B1o-cadena-44b2a3343/"><img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
@@ -187,14 +162,11 @@
 <a href="https://profile.hackthebox.com/profile/019f1c00-3448-729e-8e2a-16f6f46fefba"><img src="https://img.shields.io/badge/HACKTHEBOX-050505?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
 <a href="https://www.youtube.com/playlist?list=PLZDsctTL3Gnk"><img src="https://img.shields.io/badge/YOUTUBE-050505?style=for-the-badge&logo=youtube&logoColor=C81E1E"/></a>
 
-</div>
-
 </td>
-
-<td width="30%" valign="bottom" align="right">
+<td valign="middle" align="right">
 
 <img src="https://cdn.shopify.com/s/files/1/0765/5368/3260/files/PunSpin-2x-RIFE-RIFE4.0-8fps-ezgif.com-crop.gif"
-     width="200"
+     width="160"
      alt="PunSpin GIF"/>
 
 </td>
