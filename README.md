@@ -157,8 +157,6 @@
 <br><br>
 <a href="https://www.linkedin.com/in/esteban-campi%C3%B1o-cadena-44b2a3343/"><img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="48"/></a>
 <br><br>
-<a href="https://tryhackme.com/p/estebancro237"><img src="https://img.shields.io/badge/TRYHACKME-050505?style=for-the-badge&logo=tryhackme&logoColor=C81E1E" height="48"/></a>
-<br><br>
 <a href="https://profile.hackthebox.com/profile/019f1c00-3448-729e-8e2a-16f6f46fefba"><img src="https://img.shields.io/badge/HACKTHEBOX-050505?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" height="48"/></a>
 <br><br>
 <a href="https://www.youtube.com/playlist?list=PLZDsctTL3Gnk"><img src="https://img.shields.io/badge/YOUTUBE-050505?style=for-the-badge&logo=youtube&logoColor=C81E1E" height="48"/></a>
