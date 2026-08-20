@@ -127,18 +127,15 @@
 
 <br>
 
-<a href="mailto:juancampinoc@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=C81E1E" height="48"/></a>
-<br><br>
-<a href="https://www.linkedin.com/in/esteban-campi%C3%B1o-cadena-44b2a3343/"><img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="48"/></a>
-<br><br>
-<a href="https://profile.hackthebox.com/profile/019f1c00-3448-729e-8e2a-16f6f46fefba"><img src="https://img.shields.io/badge/HACKTHEBOX-050505?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" height="48"/></a>
-<br><br>
-<a href="https://www.youtube.com/playlist?list=PLZDsctTL3Gnk"><img src="https://img.shields.io/badge/YOUTUBE-050505?style=for-the-badge&logo=youtube&logoColor=C81E1E" height="48"/></a>
-
-<br clear="both"/>
-
 <div align="center">
 <img src="https://i.makeagif.com/media/8-06-2016/3Z7Ag8.gif" width="100%" alt="banner gif"/>
+<br><br>
+<a href="mailto:juancampinoc@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=C81E1E" height="48"/></a>
+<a href="https://www.linkedin.com/in/esteban-campi%C3%B1o-cadena-44b2a3343/"><img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="48"/></a>
+<a href="https://tryhackme.com/p/estebancro237"><img src="https://img.shields.io/badge/TRYHACKME-050505?style=for-the-badge&logo=tryhackme&logoColor=C81E1E" height="48"/></a>
+<a href="https://profile.hackthebox.com/profile/019f1c00-3448-729e-8e2a-16f6f46fefba"><img src="https://img.shields.io/badge/HACKTHEBOX-050505?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" height="48"/></a>
+<a href="https://www.youtube.com/playlist?list=PLZDsctTL3Gnk"><img src="https://img.shields.io/badge/YOUTUBE-050505?style=for-the-badge&logo=youtube&logoColor=C81E1E" height="48"/></a>
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:160000,100:050505&height=120&section=footer" width="100%"/>
 
