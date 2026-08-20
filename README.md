@@ -75,23 +75,23 @@
 
 <br>
 
-<details open>
-<summary><b>LANGUAGES</b></summary>
-<br>
 <p align="center">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="32"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Parrot_OS-00DAE6?style=for-the-badge&logo=parrotsecurity&logoColor=black" height="32"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Metasploit-1F6B9C?style=for-the-badge&logo=metasploit&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" height="32"/>
+<br><br>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="32"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="32"/>
-</p>
-</details>
-
-<details open>
-<summary><b>FRAMEWORKS & PLATFORMS</b></summary>
-<br>
-<p align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="32"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="32"/>
@@ -101,30 +101,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="32"/>
 </p>
-</details>
-
-<details open>
-<summary><b>SYSTEMS & VIRTUALIZATION</b></summary>
-<br>
-<p align="center">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="32"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Parrot_OS-00DAE6?style=for-the-badge&logo=parrotsecurity&logoColor=black" height="32"/>
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="32"/>
-</p>
-</details>
-
-<details open>
-<summary><b>PENTESTING TOOLKIT</b></summary>
-<br>
-<p align="center">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Metasploit-1F6B9C?style=for-the-badge&logo=metasploit&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" height="32"/>
-</p>
-</details>
 
 <hr>
 
@@ -150,8 +126,6 @@
 <h2>esteban@redteam:~$ nc -lvp connect</h2>
 
 <br>
-
-<img src=".Images/Foto.png" height="260" align="right" alt="Esteban Photo"/>
 
 <a href="mailto:juancampinoc@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=C81E1E" height="48"/></a>
 <br><br>
