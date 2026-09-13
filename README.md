@@ -63,7 +63,11 @@
 <img src="https://img.shields.io/badge/CBROS_ETHICAL_HACKING-C81E1E?style=for-the-badge&logo=youtube&logoColor=white&labelColor=050505" height="35"/>
 </a>
 <br><br>
-<sub><b>Ethical Hacking · Pentesting · Red Team · OSINT · Metodología paso a paso</b></sub>
+<sub><b>Ethical Hacking  
+    Pentesting 
+    Red Team  
+    Metodología paso a paso
+</b></sub>
 </td>
 </tr>
 </table>
