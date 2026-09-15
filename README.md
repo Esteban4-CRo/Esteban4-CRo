@@ -130,26 +130,6 @@
 
 </div>
 
-<hr>
-
-<h2>esteban@redteam:~$ cat certifications.log</h2>
-
-<table width="100%">
-<tr>
-<th align="left">STATUS</th>
-<th align="left">CERTIFICATION</th>
-<th align="left">ISSUER</th>
-<th align="left">DATE</th>
-</tr>
-<tr><td><code>[...]</code></td><td><b>Tecnólogo en Desarrollo de Software</b></td><td>Universidad del Valle</td><td><sub>en curso · 17 dic 2026</sub></td></tr>
-<tr><td><code>[...]</code></td><td><b>CompTIA Security+ (SY0-701)</b></td><td>CompTIA</td><td><sub>en curso · 30 sep 2026</sub></td></tr>
-<tr><td><code>[✓]</code></td><td><b>Hacking Ético y Ciberseguridad</b></td><td>Udemy</td><td><sub>23 jun 2026</sub></td></tr>
-<tr><td><code>[✓]</code></td><td><b>Mitigación y Prevención de Amenazas en Ciberseguridad</b></td><td>SENA</td><td><sub>29 dic 2025</sub></td></tr>
-<tr><td><code>[✓]</code></td><td><b>Programación en JAVA</b></td><td>Politécnico de Colombia</td><td><sub>31 ago 2024</sub></td></tr>
-<tr><td><code>[✓]</code></td><td><b>Técnico en Programación de Software</b></td><td>SENA</td><td><sub>1 ago 2023</sub></td></tr>
-</table>
-
-<hr>
 
 <h2>esteban@redteam:~$ nc -lvp connect</h2>
 
