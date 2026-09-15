@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "Pentesting",           "value": 78 },
+    { "label": "Ethical Hacking",      "value": 75 },
+    { "label": "OSINT",                "value": 80 },
+    { "label": "Redes / Wireless",     "value": 72 },
+    { "label": "Desarrollo Software",  "value": 70 },
+    { "label": "Red Team",             "value": 68 },
+    { "label": "Scripting (Py/JS)",    "value": 74 }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Arsenal Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "Nmap",         "value": 82 },
+    { "label": "Burp Suite",   "value": 70 },
+    { "label": "Metasploit",   "value": 65 },
+    { "label": "Wireshark",    "value": 75 },
+    { "label": "Kali Linux",   "value": 85 },
+    { "label": "Aircrack-ng",  "value": 78 }
+  ]
+}

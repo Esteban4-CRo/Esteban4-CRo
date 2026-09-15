@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Stars/forks/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "Crock",
+      "description": "Herramienta de pentesting WiFi para auditar redes inalambricas en entornos controlados."
+    },
+    {
+      "repo": "HTB---Labs",
+      "description": "Writeups y soluciones de maquinas y retos de HackTheBox."
+    },
+    {
+      "repo": "USB-Crock",
+      "description": "Proyecto de hardware hacking basado en USB para pruebas de seguridad fisica."
+    },
+    {
+      "repo": "FRV-Sniffer",
+      "description": "Herramienta de analisis y captura de trafico de red para investigacion en ciberseguridad."
+    }
+  ]
+}

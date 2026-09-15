@@ -59,8 +59,8 @@
 </a>
 </td>
 <td valign="middle" style="padding-left: 25px;">
-<a href="https://www.youtube.com/playlist?list=PLZDsctTL3Gnk">
-<img src="https://img.shields.io/badge/CBROS_ETHICAL_HACKING-C81E1E?style=for-the-badge&logo=youtube&logoColor=white&labelColor=050505" height="35"/>
+<a href="https://cbros-theta.vercel.app/">
+<img src="https://img.shields.io/badge/CBROS_GUIA_COMPLETA-C81E1E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050505" height="35"/>
 </a>
 <br><br>
 <sub><b>Ethical Hacking  
@@ -71,6 +71,16 @@
 </td>
 </tr>
 </table>
+</div>
+
+<hr>
+
+<h2>esteban@redteam:~$ ./stack --overview</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,python,c,cpp,cs,php,js,react,vite,django,firebase,supabase,vercel,mysql&perline=8" alt="tech stack">
+
 </div>
 
 <hr>
@@ -105,6 +115,53 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="32"/>
 </p>
+
+<hr>
+
+<h2>esteban@redteam:~$ ./radar --scan</h2>
+
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+  <img src="assets/radar-dark.svg" width="380" alt="skill radar chart">
+</picture>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-tools-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-tools-light.svg">
+  <img src="assets/radar-tools-dark.svg" width="380" alt="arsenal radar chart">
+</picture>
+
+</td>
+</tr>
+</table>
+</div>
+
+<hr>
+
+<h2>esteban@redteam:~$ cat stats.log</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
+  <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
+</picture>
+
+<br><br>
+
+<img src="assets/metrics.languages.svg" height="165" alt="most used languages">
+
+</div>
 
 <hr>
 
